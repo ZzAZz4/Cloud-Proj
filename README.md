@@ -2,6 +2,11 @@
 
 Aplicación en Django con un sistema de recomendación de películas, que utiliza las opiniones de los usuarios para mejorar continuamente sus recomendaciones.
 
+## Integrantes
+
+- Francesco Uccelli
+- Esteban Villacorta
+
 
 ## Deployment
 
