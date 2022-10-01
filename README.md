@@ -53,5 +53,5 @@ La aplicación se compone de diferentes
 
 Arquitectura
 
-[!arch](images/arch.png)
+![arch](images/arch.png)
 
