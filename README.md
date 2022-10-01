@@ -1,5 +1,7 @@
 # Cloud-Proj
 
+Aplicación de recomendaciones utilizando machine learning y kubernetes.
+
 ## Deployment
 
 ```
